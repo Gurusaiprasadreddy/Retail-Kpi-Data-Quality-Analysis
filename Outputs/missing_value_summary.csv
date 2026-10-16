@@ -1,0 +1,10 @@
+column,missing_count,completeness_pct
+order_id,0,100.0
+order_date,1,91.67
+customer_segment,0,100.0
+city,1,91.67
+category,0,100.0
+quantity,0,100.0
+unit_price,0,100.0
+discount_pct,1,91.67
+payment_status,0,100.0

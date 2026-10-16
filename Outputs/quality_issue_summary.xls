@@ -1,0 +1,9 @@
+column,rule,severity,issue_count
+order_date,Missing or invalid date,Error,2
+order_id,Duplicate order ID,Error,2
+discount_pct,Discount missing or non-numeric,Review,1
+city,Required field is missing,Error,1
+discount_pct,Discount must be between 0 and 100,Error,1
+order_date,Required field is missing,Error,1
+quantity,Quantity must be greater than zero,Error,1
+quantity,Quantity must be numeric,Error,1

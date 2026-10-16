@@ -1,0 +1,10 @@
+column,data_type,total_records,missing_values,completeness_pct,unique_values
+order_id,object,12,0,100.0,11
+order_date,object,12,1,91.67,10
+customer_segment,object,12,0,100.0,4
+city,object,12,1,91.67,7
+category,object,12,0,100.0,3
+quantity,object,12,0,100.0,5
+unit_price,int64,12,0,100.0,3
+discount_pct,float64,12,1,91.67,5
+payment_status,object,12,0,100.0,5

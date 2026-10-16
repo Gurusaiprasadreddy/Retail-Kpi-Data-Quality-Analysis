@@ -1,0 +1,6 @@
+Metric,Value
+Raw dataset rows,12
+Raw dataset columns,9
+Detected quality violations,10
+Rows eligible for value analysis,5
+Rows excluded from value analysis,7

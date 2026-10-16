@@ -1,0 +1,13 @@
+order_id,order_date,customer_segment,city,category,quantity,unit_price,discount_pct,payment_status,duplicate_order_id,valid_date,valid_quantity,valid_unit_price,valid_discount,eligible_for_value_analysis
+RT-1001,2026-01-03,Student,Chennai,Learning Kit,2.0,799,10.0,Paid,False,True,True,True,True,True
+RT-1002,2026-03-01,Fresher,Bengaluru,Course Access,1.0,1499,0.0,Paid,False,True,True,True,True,True
+RT-1003,2026-01-05,Student,Chennai,Course Access,1.0,1499,,Pending,False,True,True,True,False,False
+RT-1004,2026-01-07,Professional,Hyderabad,Learning Kit,3.0,799,5.0,Paid,True,True,True,True,True,False
+RT-1004,2026-01-07,Professional,Hyderabad,Learning Kit,3.0,799,5.0,Paid,True,True,True,True,True,False
+RT-1005,2026-01-09,Fresher,,Mentor Session,1.0,999,0.0,Failed,False,True,True,True,True,True
+RT-1006,,Student,Pune,Learning Kit,-1.0,799,10.0,Paid,False,False,False,True,True,False
+RT-1007,2026-01-12,Professional,Mumbai,Mentor Session,2.0,999,105.0,Paid,False,True,True,True,False,False
+RT-1008,2026-01-14,Fresher,Bengaluru,Course Access,,1499,0.0,Pending,False,True,False,True,True,False
+RT-1009,2026-01-16,Student,Chennai,Learning Kit,1.0,799,0.0,Paid,False,True,True,True,True,True
+RT-1010,2026-01-18,Professional,Delhi,Course Access,2.0,1499,15.0,Refunded,False,True,True,True,True,True
+RT-1011,,Student,Kochi,Mentor Session,1.0,999,0.0,Paid,False,False,True,True,True,False

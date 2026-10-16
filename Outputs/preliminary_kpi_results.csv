@@ -1,0 +1,12 @@
+KPI,Value,Unit
+Eligible unique orders,5.0,orders
+Paid orders,3.0,orders
+Pending orders,0.0,orders
+Failed orders,1.0,orders
+Refunded orders,1.0,orders
+Failed payment rate,20.0,%
+Refunded order rate,20.0,%
+Gross order value estimate,7893.0,currency units
+Discount amount estimate,609.5,currency units
+Net order value estimate,7283.5,currency units
+Average net order value estimate,1456.7,currency units/order
